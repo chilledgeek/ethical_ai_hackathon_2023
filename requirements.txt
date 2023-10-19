@@ -110,7 +110,7 @@ tensorboardX==2.6.2.2
 terminado==0.17.1
 threadpoolctl==3.1.0
 tinycss2==1.2.1
-torch==1.3.1
+torch==1.13.1
 tornado==6.2
 tqdm==4.66.1
 tqt==1.0.2
